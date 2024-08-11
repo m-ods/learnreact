@@ -5,7 +5,7 @@ import { useTheme } from "@/components/theme-provider";
 
 function Toggle() {
   const [switchedOn, setSwitch] = useState(true);
-  const { setTheme } = useTheme("light");
+  const { setTheme } = useTheme();
 
   return (
     <>

@@ -1,4 +1,3 @@
-import { Link } from "react-router-dom";
 import "./App.css";
 import reactLogo from "./assets/react.svg";
 import Navbar from "./components/Navbar";
@@ -15,7 +14,7 @@ function App() {
         <h1>My React Journey!</h1>
         <p className="text-xs">
           I'm on a journey to learn React. This is my site where I host all of
-          the mini-projects that I build as a challenge for myself.
+          the mini-projects that I build as a challenge for myselfs
         </p>
       </div>
     </>
