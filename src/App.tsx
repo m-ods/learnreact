@@ -14,7 +14,7 @@ function App() {
         <h1>My React Journey!</h1>
         <p className="text-xs">
           I'm on a journey to learn React. This is my site where I host all of
-          the mini-projects that I build as a challenge for myselfs
+          the mini-projects that I build as a challenge for myself
         </p>
       </div>
     </>
